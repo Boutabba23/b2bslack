@@ -19,7 +19,8 @@
       }
     ],
     "paths": {
-      "@/*": ["./*"]
+      "@/*": ["./*"],
+      "@/convex/*": ["./slack-b2b-app/convex/*"]
     }
   },
   "include": [
